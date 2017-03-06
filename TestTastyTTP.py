@@ -21,7 +21,7 @@ import time
 import os
 
 serverName = 'localhost'
-serverPort = 1200
+serverPort = 1000
 
 def getCurrentTime () :
     return time.gmtime()
